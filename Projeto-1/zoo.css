@@ -1,0 +1,128 @@
+body{
+    margin: 0 ;
+    width: 100%;
+    height: 100%;
+    
+}
+ul{
+    padding: 0px!important;
+    margin-right: 95px;
+    height: 45px;
+    margin-bottom: 0px;
+}
+.menu-principal{   
+    width: 100%;
+    height: 240px;
+    background-image: url(./img/header.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    box-shadow: 0px 0px 20px 5px black;
+}
+main{
+    margin: 0 auto;
+    width: 980px;
+}
+.header-1{
+    height: 180px;
+    width: 100%;
+    display: inline-block;
+} 
+.logo{
+    margin: 0px!important;
+    width: 100%;
+    padding-top: 30px;
+}
+
+.header-2{
+    background-color:#ffffff;
+    width:980px;
+    margin: 0 auto;    
+    box-shadow: 0px -5px 20px 5px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.menu ul li  {
+    padding-inline: 49px;
+    display: inline-block;
+   -webkit-box-align: center;
+   position: relative;
+   padding-top: 7px;
+   margin-left: 110px;
+}
+.menu ul li:hover{
+    background-color: #014a0366;
+    border-bottom: 3px solid #1283177e;
+    height: 35px;    
+}
+.menu ul li a:hover {
+    color: #07470b;
+}
+.menu ul li a{
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px #56565670;
+    font-family: Oswald;
+}
+.conteudo{
+    background-color: #f3ffe494;
+    width: auto;
+    text-align: -webkit-center;
+    height: 1650px;
+}
+.conteudo-1{
+    width: 980px;
+    height: 98%;
+    background-color: #014a0366;
+    box-shadow: 0px 2px 20px 5px black;
+    padding-top: 25px;
+    border-radius: 0 0 10px 10px;
+}
+.conteudo-1 h2{
+    font-size: 30px;
+    text-shadow: 0px 0px 19px black;
+    font-family: Oswald;
+    text-align: left;
+    margin-left: 20px;
+    margin-block: auto;
+}
+.cont-zoo{
+    height: 89%;
+    width: 900px;
+    background-color: #1b970fd6;
+    border-radius: 30px 30px 30px 30px;
+    box-shadow: 0px 5px 40px -5px black;
+    padding: 15px;
+    padding-inline: 20px;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+footer{
+    width: 100%;
+    height: 70px;
+    background-color: #074801a1;
+    line-height: 70px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 0 0 10px 10px;
+}
+.pic{
+    margin-right: 15px;
+    margin-top: 30px;
+}
+.pic img{
+    border-radius: 15px 15px 15px 15px;
+    
+}
+.txt{
+    font-size: 18px;
+    font-family: calibri;
+    margin-top: 15px;
+}
+.txt p {
+    font-size: 25px;
+    font-family: oswald;
+    margin: -5px;
+    -webkit-text-stroke: thin;
+}
